@@ -1,0 +1,218 @@
+
+<style type="text/css">
+
+		
+		h1{
+			color:#000000;
+		}
+		
+		body{
+			background-color:#FFF;
+
+		}
+
+		/* Paragraph & Typographic */
+		p {
+		    line-height: 28px;
+		    margin-bottom: 25px;
+		    font-size: 16px;
+		}
+
+
+
+		#ww {
+			padding-top: 70px;
+			padding-bottom: 70px;
+			background-color: #f2f2f2;
+		}
+
+		.mt {
+			margin-top: 40px;
+			margin-bottom: 40px;
+
+		}
+
+		.pt {
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+		
+		#divformcont
+		{
+		  position:relative;
+		  left:37%;
+		  top:29%;
+		  width:320px;
+		  height:270px;
+		}
+
+		#divformcont #formcont
+		{
+  			position:absolute;
+  			display:block;
+  			background-color:#CCC;
+  			border: 3px solid #000;   
+		}
+
+		legend
+		{
+  			font-style:bold;
+ 			 font-family: "Segoe UI";
+		}
+		
+		
+		#formcont input.Nome
+		{
+  			background-color:#B5B5B5;
+  			left:95px;
+  			top:23px;
+  			width:225px;
+		}
+		#formcont input.email
+		{ 
+	 		background-color:#B5B5B5;
+			left:95px;
+	  		margin-top:2px;
+	  		width:225px;
+		}
+		#formcont input.Telefone
+		{ 
+	 		background-color:#B5B5B5;
+			left:95px;
+	  		margin-top:2px;
+	  		width:225px;
+		}
+		#formcont select.Genero
+		{ 
+	 		background-color:#B5B5B5;
+			left:95px;
+	  		margin-top:2px;
+	  		width:225px;
+		}
+		#formcont textarea.Menssagem
+		{
+  			background-color:#B5B5B5;
+		}
+		#formcont input.btn_submit
+		{
+  			border-style:dashed;
+  			position:absolute;
+  			bottom: 0.5em;
+			right:10px;
+			background-color:#B5B5B5;
+		}
+		#rodape
+		{
+		   position:absolute;
+		   bottom:0;
+		   width:100%;
+		   height:30px;
+		   background:#CCC;
+		}
+		/* Links */
+		a {
+		    color: #0000FF;
+		    word-wrap: break-word;
+
+		    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    transition: color 0.1s ease-in, background 0.1s ease-in;
+		}
+
+		a:hover,
+		a:focus {
+		    color: #8e44ad;
+		    text-decoration: none;
+		    outline: 0;
+		}
+
+		a:before,
+		a:after {
+		    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+		    transition: color 0.1s ease-in, background 0.1s ease-in;
+		}
+
+		 hr {
+		    display: block;
+		    height: 1px;
+		    border: 0;
+		    border-top: 1px solid #ccc;
+		    margin: 1em 0;
+		    padding: 0;
+		}
+
+		.navbar {
+			text-transform: uppercase;
+			margin-bottom: 0px;
+		}
+
+		.navbar-inverse {
+			padding-bottom: 70px;
+			padding-top: 70px;
+		}
+
+		.navbar-inverse {
+			background-color: #808080;
+			background: -webkit-linear-gradient(90deg, #C0C0C0 10%, #808080 90%); /* Chrome 10+, Saf5.1+ */
+			background:    -moz-linear-gradient(90deg, #C0C0C0 10%, #808080 90%); /* FF3.6+ */
+			background:     -ms-linear-gradient(90deg, #C0C0C0 10%, #808080 90%); /* IE10 */
+			background:      -o-linear-gradient(90deg, #C0C0C0 10%, #808080 90%); /* Opera 11.10+ */
+			background:         linear-gradient(90deg, #C0C0C0 10%, #808080 90%); /* W3C */
+			border-color: #3498db;
+		}
+
+		.navbar-inverse .navbar-nav > li > a {
+			color: white;
+		}
+
+		.navbar-inverse .navbar-nav > li > a:hover {
+			color: #222222;
+		}
+
+		.navbar-brand {
+			font-weight: 700;
+			font-size: 20px;
+			letter-spacing: 2px;
+		}
+		
+		.navbar-inverse .navbar-brand {
+			color: white;
+		}
+
+		.navbar-inverse .navbar-toggle {
+			border-color: transparent;
+		}
+		#footer {
+	background-color: #2f2f2f;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+		}
+
+		#footer p {
+			color: white;
+		}
+
+		#footer h4 {
+			color: white;
+			text-transform: uppercase;
+			padding-bottom: 20px;
+		}
+
+		#footer a {
+			color: #95a5a6;
+		}
+
+		#footer a:hover {
+			color: #3498db;
+		}
+
+
+
+	</style>
+
+	
